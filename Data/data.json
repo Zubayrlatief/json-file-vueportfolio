@@ -85,23 +85,6 @@
             "image":"https://zubayrlatief.github.io/portfolio_hostedImages/Vuejs.jpg"
         }
     ],
-    "softSkills":[
-        {
-            "name":"Critical Thinking",
-            "description":"Software Development is about solving problems and this can only be done by taking a critical approach to the problem. I look at anyproblem from all veiwpoints to correct it sytematicly",
-            "image":"https://zubayrlatief.github.io/portfolio_hostedImages/"
-        },
-        {
-            "name":"Problem Solving",
-            "description":"I enjoy solving problems and equate this to being the household leader at a young age. My vue on solving a problem is systematic and calculated to have the most desirable outcome",
-            "image":"https://zubayrlatief.github.io/portfolio_hostedImages/"
-        },
-        {
-            "name":"Leadership",
-            "description":"Owing a business at a young age and having 2 empoyees taught me valubale leadership quilities that have benifit me and continue to benifit me when i see leadership roles in the software space",
-            "image":"https://zubayrlatief.github.io/portfolio_hostedImages/"
-        }
-    ],
     "testimonials":[
         {
             "name":"Aneeq Bassadien",
@@ -122,10 +105,10 @@
             "image":"https://zubayrlatief.github.io/portfolio_hostedImages/zubayrmoerat.jpeg"
         },
         {
-            "name":"Nasheetah Jacobs",
+            "name":"Tahir Du Toit",
             "role":"Student",
             "comment":"Able to complete comprensive tasks coupled with leadership quilities.",
-            "image":"https://zubayrlatief.github.io/portfolio_hostedImages/"
+            "image":"https://zubayrlatief.github.io/portfolio_hostedImages/tahir.jpg"
         },
         {
             "name":"Marcus Adonis",
@@ -137,7 +120,7 @@
             "name":"Matthew Brown",
             "role":"Lecturer",
             "comment":"Pleasue to teach. Has a great work ethic and focuses on the task at hand",
-            "image":"https://zubayrlatief.github.io/portfolio_hostedImages/"
+            "image":"https://zubayrlatief.github.io/portfolio_hostedImages/mathew.jpg"
         }
     ]
 }
