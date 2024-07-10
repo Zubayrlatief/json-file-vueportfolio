@@ -55,34 +55,29 @@
 ],
     "codingSkills":[
         {
-            "name":"HTML",
-            "ability":"I am procient in HTML but evryone is",
-            "image":"https://zubayrlatief.github.io/portfolio_hostedImages/html.jpg"
-        },
-        {
             "name":"CSS",
             "ability":"I can style CSS projects.well being suprised sometimes at my creative ability ",
-            "image":"https://zubayrlatief.github.io/portfolio_hostedImages/css.png"
+            "image":"https://zubayrlatief.github.io/portfolio_hostedImages/css-removebg-preview.png"
         },
         {
             "name":"JavaScript",
             "ability":"I enjoy building ecomerce sites in Javascript. This language trying to gain as much knwollage as possible",
-            "image":"https://zubayrlatief.github.io/portfolio_hostedImages/JS.jpg"
+            "image":"https://zubayrlatief.github.io/portfolio_hostedImages/JS-transformed.jpg"
         },
         {
             "name":"BootStrap",
             "ability":"I am proficient in Bootstrap however i do not personally like the syntax",
-            "image":"https://zubayrlatief.github.io/portfolio_hostedImages/bootstrap.jpg"
+            "image":"https://zubayrlatief.github.io/portfolio_hostedImages/bootstrap-removebg-preview.png"
         },
         {
             "name":"Tailwind",
             "ability":"I am currently learing Tailwind as it is a better looking framework than Bootstrap in my opinion. I am at the begining stages however excited to grow and build more dynamic websites. .",
-            "image":"https://zubayrlatief.github.io/portfolio_hostedImages/tailwind.png"
+            "image":"https://zubayrlatief.github.io/portfolio_hostedImages/tailwind-transformed.png"
         },
         {
             "name":"Vue JS",
             "ability":"Vue Js is my most recent Framework. Chosing Vue over React was tough however i feel Vue is a more capable, faster and more enjoyable Framework ",
-            "image":"https://zubayrlatief.github.io/portfolio_hostedImages/Vuejs.jpg"
+            "image":"https://zubayrlatief.github.io/portfolio_hostedImages/Vuejs-transformed.png"
         }
     ],
     "testimonials":[
