@@ -6,21 +6,21 @@
             "github":"https://github.com/Zubayrlatief/Javascript-EOMP2",
             "vercel":"https://javascript-eomp-2.vercel.app/",
             "description":"Regal Redifined ecomerce site using Javascript and Bootstrap",
-            "image":"https://zubayrlatief.github.io/portfolio_hostedImages/regalredifined.png"
+            "image":"https://zubayrlatief.github.io/hosted-images/regalredifined.png"
         },
         {
             "name":"Vue mock portfolio",
             "github":"https://github.com/Zubayrlatief/wafs.logistics",
             "vercel":"https://wafs-logistics.vercel.app/",
             "description":"my mock vue portfolio hard coded",
-            "image":"https://zubayrlatief.github.io/portfolio_hostedImages/download.png"
+            "image":"https://zubayrlatief.github.io/hosted-images/download.png"
         },
         {
             "name":"Keyboard",
             "github":"https://github.com/Zubayrlatief/keyboard1",
             "vercel":"https://keyboard1.vercel.app/",
             "description":"First calculator playing around with CSS",
-            "image":"https://zubayrlatief.github.io/portfolio_hostedImages/keyboard.png"
+            "image":"https://zubayrlatief.github.io/hosted-images/keyboard.png"
         }
 
     ],
@@ -29,14 +29,14 @@
             "placeOfInstitution":"Claremont High School",
             "description":"Subjects: Mathematics, Physical Science, Life Science,  English, Afrikaans, Geography, Life Orientation.",
             "year":"2019 - 2024",
-            "image":"https://zubayrlatief.github.io/portfolio_hostedImages/claremonthigh.jpeg"
+            "image":"https://zubayrlatief.github.io/hosted-images/claremonthigh.jpeg"
         },
 
         {
             "placeOfInstitution":"Life Choices Academy",
             "description":"my proficientcy consists of Javascript and Vue.js Framework. Bootstrap is my main CSS framework however i am proficient in Bootstrap. My backend includes Node.js and SQL",
             "year":"2nd April 2024 - present",
-            "image":"https://zubayrlatief.github.io/portfolio_hostedImages/lifechoices.jpg"
+            "image":"https://zubayrlatief.github.io/hosted-images/lifechoices.jpg"
         }
     ],
     "experience":[  
@@ -72,7 +72,7 @@
         {
             "name":"Tailwind",
             "ability":"I am currently learing Tailwind as it is a better looking framework than Bootstrap in my opinion. I am at the begining stages however excited to grow and build more dynamic websites. .",
-            "image":"https://zubayrlatief.github.io/phosted-Images/tailwind-transformed.png"
+            "image":"https://zubayrlatief.github.io/hosted-images/tailwind-transformed.png"
         },
         {
             "name":"Vue JS",
